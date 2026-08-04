@@ -9,8 +9,8 @@ CS student at CU Boulder focused on systems programming and defensive security.
 ---
 
 ### Systems Programming (C / Assembly)
-Completed low-level systems projects — data representation, binary exploitation,
-performance optimization, and a shell implementation — using C and x86-64 Assembly.
+Completed low-level systems projects data representation, binary exploitation,
+performance optimization, and a shell implementation using C and x86-64 Assembly.
 Applied memory management, bit manipulation, and GDB/disassembly-based debugging.
 Course repos are private per academic integrity policy.
 
@@ -19,7 +19,7 @@ Built and hardened a self-hosted Linux server: disabled root SSH login, capped
 authentication retries, configured host firewall rules, and deployed automated
 intrusion prevention (Fail2ban). Ran before/after security audits with Nmap and
 Lynis and published the full workflow — README, risk register, remediation
-checklist — with branch protection.
+checklist with branch protection.
 
 ---
 
