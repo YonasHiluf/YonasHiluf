@@ -3,6 +3,7 @@
 CS student at CU Boulder focused on systems programming and defensive security.
 
 **Strongest in:** C, C++, x86-64 Assembly
+
 **Also working with:** Python, SQL, Linux (Ubuntu Server)
 
 ---
