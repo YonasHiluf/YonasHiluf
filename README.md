@@ -23,4 +23,8 @@ checklist with branch protection.
 
 ---
 
+Earned Cisco's Introduction to Cybersecurity certification through Cisco Networking Academy. Looking for cybersecurity or systems-adjacent internship opportunities.
+
+---
+
 Links: [LinkedIn](https://www.linkedin.com/in/yonas-hiluf/) · [Handshake](https://app.joinhandshake.com/profiles/yonas-hiluf)
