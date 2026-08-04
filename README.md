@@ -18,7 +18,7 @@ Course repos are private per academic integrity policy.
 Built and hardened a self-hosted Linux server: disabled root SSH login, capped
 authentication retries, configured host firewall rules, and deployed automated
 intrusion prevention (Fail2ban). Ran before/after security audits with Nmap and
-Lynis and published the full workflow — README, risk register, remediation
+Lynis and published the full workflow,README, risk register, remediation
 checklist with branch protection.
 
 ---
